@@ -2,7 +2,7 @@ import { h } from "preact";
 import styles from "./style.css";
 import { Link } from "preact-router";
 
-const TITLE = "Sushi Go! Companion";
+const TITLE = "Sushi Go! Friend";
 
 export default function View({ children, title }) {
   document.title = title ? `${title} - ${TITLE}` : TITLE;

@@ -1,4 +1,4 @@
-# sushi-go-companion
+# Sushi Go! Friend
 
 ## CLI Commands
 

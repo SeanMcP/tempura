@@ -1,6 +1,6 @@
 {
-  "name": "Sushi Go! Companion",
-  "short_name": "Sushi Go! Companion",
+  "name": "Sushi Go! Friend",
+  "short_name": "Sushi Go! Friend",
   "start_url": "/",
   "display": "standalone",
   "orientation": "portrait",
